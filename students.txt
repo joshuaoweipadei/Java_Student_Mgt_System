@@ -1,0 +1,8 @@
+# Example students.txt file content:
+
+Student ID: 1001, Name: John Doe, Grade: 85.5, Student Type: Undergraduate
+Student ID: 1002, Name: Jane Smith, Grade: 92.0, Student Type: Undergraduate
+Student ID: 2001, Name: Bob Johnson, Grade: 75.8, Student Type: Graduate
+Student ID: 2002, Name: Alice Williams, Grade: 88.2, Student Type: Graduate
+Student ID: 12345, Name: Oweis, Grade: 223.0, Student Type: Graduate
+Student ID: 1880, Name: Joshua, Grade: 99.0, Student Type: Graduate
